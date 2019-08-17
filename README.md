@@ -1,3 +1,5 @@
+This Repository was used as weekend crash course to refresh R for a small project in the upcoming week.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
